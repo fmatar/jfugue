@@ -1,4 +1,4 @@
-#JFugue 
+# JFugue 
 
 A clone of the initial JFugue repo migrated to maven.
 
